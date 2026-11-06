@@ -22,5 +22,13 @@
       "travelLabel": "Surface",
       "requires": []
     }
+  ],
+  "entries": [
+    {
+      "joins": "hub",
+      "at": "pond",
+      "arrive": "warren-threshold",
+      "via": "pond-warren-threshold"
+    }
   ]
 }
